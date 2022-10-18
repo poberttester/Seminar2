@@ -12,7 +12,6 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            byte result;
             string input;
             bool IsTrue;
 
